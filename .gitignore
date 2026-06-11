@@ -1,0 +1,16 @@
+# Compiled binaries
+test
+raytracer
+pointcloud
+project_pc
+draw_boxes
+
+# Temporary PPM files (large text format)
+*.ppm
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
