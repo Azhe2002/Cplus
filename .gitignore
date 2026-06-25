@@ -14,3 +14,14 @@ __pycache__/
 
 # IDE
 .vscode/
+
+# Try directory compiled outputs
+try/*.o
+try/*.so
+try/try1
+try/try2
+try/try3
+try/main
+try/try3main
+try/*.jpg
+try/*.ppm
